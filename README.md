@@ -1,1 +1,2 @@
-# This a temporary repo linked with my machine.
+# Temporary Repo
+This a temporary repo linked with my machine.
